@@ -1,7 +1,7 @@
-__01-hysteresis-indices__: Scripts to calculate and plot hysteresis indices as well as plot C-Q loops for a set of biogeochemical parameters vs. discharge.
+**01-hysteresis-indices**: Scripts to calculate and plot hysteresis indices as well as plot C-Q loops for a set of biogeochemical parameters vs. discharge.
 
-__02-discharge-2025__: Scripts to process discharge and pressure transducer measurements and use them to develop rating curves for the 2025 data.
+**02-discharge-2025**: Scripts to process discharge and pressure transducer measurements and use them to develop rating curves for the 2025 data.
 
-__03-discharge-combined-years__: Similar to (02), but combine and compare data across years.
+**03-discharge-combined-years**: Similar to (02), but combine and compare data across years.
 
-__04-thermistors__: Basic scripts to compile and plot thermistor time series.
+**04-thermistors**: Basic scripts to compile and plot thermistor time series.
